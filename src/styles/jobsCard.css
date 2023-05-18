@@ -1,0 +1,15 @@
+.jobs-list {
+  max-width: 50vw;
+  width: 818px;
+  overflow: auto;
+}
+
+.jobs-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1.5rem;
+  background-color: var(--color-grey-6);
+  padding: 2.375rem;
+  border-radius: var(--radius-default);
+}

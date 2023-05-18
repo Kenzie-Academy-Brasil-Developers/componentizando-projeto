@@ -1,0 +1,17 @@
+.jobs-selected {
+  background-color: var(--color-grey-6);
+  height: 737px;
+  width: 503px;
+  border-radius: 8px;
+  padding: 2rem;
+  overflow: auto;
+}
+
+.jobs-selected-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  border-bottom: 0.125rem solid var(--color-grey-5);
+  background-color: var(--color-grey-6);
+  padding: 2rem 0 2rem 0;
+}
